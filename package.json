@@ -1,0 +1,28 @@
+{
+  "name": "fparser",
+  "version": "1.0.0",
+  "description": "functional implementation of parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muffinmann/FParser.git"
+  },
+  "keywords": [
+    "FP",
+    "parser"
+  ],
+  "author": "Muffinmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Muffinmann/FParser/issues"
+  },
+  "homepage": "https://github.com/Muffinmann/FParser#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "typescript": "^5.0.4"
+  }
+}
